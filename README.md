@@ -31,5 +31,24 @@ s.no|name|rollno
 2|jessy|5d5
 3|rishitha|5f2
 
+~~this was mistaken text~~
+
+harshitha :+1:
+
+s.no|name|emoji
+-----|----|-----
+1|harshitha|:grinning:
+2|rishitha|:innocent:
+3|jessy|:joy:
+4|vasavi|:rofl:
+5|teja|:smiley:
+
+first list item
+
+- first nested list item
+
+  - second nested list
+
+
 
 
